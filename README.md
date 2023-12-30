@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Can Kolho</h1>
 <h3 align="center">I'm a second-year CS student at Aalto University, deeply passionate about web development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cankolho&label=Profile%20views&color=0e75b6&style=flat" alt="cankolho" /> </p>
-
 - 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [CanKolho-Portfolio](https://cankolho.github.io/CanKolho-Portfolio/)
