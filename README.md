@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [CanKolho-Portfolio](https://cankolho.github.io/CanKolho-Portfolio/)
+- 👨‍💻 All of my projects are available at [Dev-Portfolio](https://cankolho.github.io/Dev-Portfolio/)
 
 - 📫 How to reach me **can.kolho@hotmail.com**
 
