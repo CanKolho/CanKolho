@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cankolho.github.io/CanKolho-Portfolio/images/home.jpg" alt="Can Kolho" width="400">
+  <img src="https://cankolho.github.io/Dev-Portfolio/images/home.jpg" alt="Can Kolho" width="400">
 </p>
 
 <h1 align="center">Hi 👋, I'm Can Kolho</h1>
